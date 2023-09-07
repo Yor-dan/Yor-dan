@@ -1,6 +1,6 @@
-![GitHub Profile Banner](https://github.com/Yor-dan/Yor-dan/assets/106906701/0f08424a-16e9-48e9-80f2-68a3df53b8c7)
+![GitHub Profile Banner v2 0 - cropped](https://github.com/Yor-dan/Yor-dan/assets/106906701/ab07d868-0f88-43fe-9a64-e7295a71909e)
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; About Me
 An undergraduate computer science student who highly interested in web development and cloud computing. Mostly code TypeScript in JS framework/library. Currently learning Svelte-Firebase stack.
 
 ### 🛠 &nbsp; Tech Stack
