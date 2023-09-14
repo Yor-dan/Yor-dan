@@ -14,8 +14,7 @@ An undergraduate computer science student who highly interested in web developme
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
-### 📫 &nbsp; Reach me:
+### 📫 &nbsp; Reach Me
 
-<a href="https://instagram.com/_yor.dan"><img alt="Instagram" src="https://img.shields.io/badge/__yor.dan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/yordan-bian/"><img alt="LinkedIn" src="https://img.shields.io/badge/yordan--bian%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:yordanbian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/yordanbian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
