@@ -18,3 +18,9 @@ An undergraduate computer science student who highly interested in web developme
 
 <a href="https://www.linkedin.com/in/yordan-bian/"><img alt="LinkedIn" src="https://img.shields.io/badge/yordan--bian%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:yordanbian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/yordanbian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
+```JavaScript
+while (live) {
+ do(code);
+}
+```
