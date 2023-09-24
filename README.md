@@ -20,7 +20,7 @@ An undergraduate computer science student who highly interested in web developme
 <a href="mailto:yordanbian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/yordanbian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 ```JavaScript
-while (isLife === true) {
+while (isAlive === true) {
  eat().code().sleep();
 }
 ```
