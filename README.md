@@ -16,8 +16,9 @@ An undergraduate computer science student who highly interested in web developme
 
 ### 📫 &nbsp;Reach Me
 
-<a href="https://www.linkedin.com/in/yordan-bian/"><img alt="LinkedIn" src="https://img.shields.io/badge/yordan--bian%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/yordan-bian/"><img alt="LinkedIn" src="https://img.shields.io/badge/yordan--bian-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:yordanbian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/yordanbian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://discordapp.comm/users/595867735951671327"><img alt="Discord" src="https://img.shields.io/badge/yor.dan-5865F2?style=flat&logo=discord&logoColor=white" /></a> &nbsp;
 
 ```JavaScript
 while (isAlive === true) {
