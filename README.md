@@ -1,7 +1,7 @@
 ![GitHub Profile Banner v2 0 - cropped](https://github.com/Yor-dan/Yor-dan/assets/106906701/5f017603-b0f0-43c4-b72d-202af35a3c12)
 
 ### 👨🏻‍💻 &nbsp;About Me
-An undergraduate computer science student who highly interested in full-stack web development. Mostly code TypeScript in JS framework/library. Currently learning Svelte + Firebase stack.
+A final-yaer undergraduate Informatics student with keen interest in software engineering. Nearly 3 years experience in full-stack web development using Node.js. Currently switching focus to Cloud and Microservices with Docker.
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
