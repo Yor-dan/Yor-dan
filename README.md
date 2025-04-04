@@ -25,7 +25,9 @@ A final-year Undergraduate student majoring in Informatics with strong interest 
 <a href="https://discordapp.com/users/595867735951671327"><img alt="Discord" src="https://img.shields.io/badge/yor.dan-5865F2?style=flat&logo=discord&logoColor=white" /></a> &nbsp;
 
 ```JavaScript
-while (isAlive === true) {
- eat().code().sleep();
+while (isAlive) {
+ eat();
+ code();
+ sleep();
 }
 ```
